@@ -1,5 +1,7 @@
 # Hypersphere Cosmology
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19296662.svg)](https://doi.org/10.5281/zenodo.19296662)
+
 **A geometric cosmological model derived from rₛ = 2R**
 
 Sean P. Myers | Independent Researcher | ORCID: 0009-0000-3132-5383
