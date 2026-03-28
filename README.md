@@ -40,7 +40,7 @@ The model derives a comprehensive cosmology from a single postulate: the Schwarz
 ## Quick Start
 
 ```bash
-git clone https://github.com/viral-satan/hypersphere-cosmology
+git clone https://github.com/Hypersphere-Cosmology/hypersphere-cosmology
 cd hypersphere-cosmology
 pip install -r requirements.txt
 python run_hypersphere_fit.py
@@ -65,7 +65,7 @@ python run_hypersphere_fit.py
   journal={JCAP},
   year={2026},
   note={Submitted},
-  url={https://github.com/viral-satan/hypersphere-cosmology}
+  url={https://github.com/Hypersphere-Cosmology/hypersphere-cosmology}
 }
 ```
 
