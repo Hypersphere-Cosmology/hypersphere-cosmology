@@ -1,6 +1,6 @@
 # Hypersphere Cosmology
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19296662.svg)](https://doi.org/10.5281/zenodo.19296662)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19322656.svg)](https://doi.org/10.5281/zenodo.19322656)
 
 **A geometric cosmological model derived from rₛ = 2R**
 
@@ -11,7 +11,7 @@ Sean P. Myers | Independent Researcher | ORCID: 0009-0000-3132-5383
 This repository contains the code for the paper:
 
 > "Hypersphere Cosmology: The Universe as the Three-Dimensional Hyperspherical Surface of a Four-Dimensional Hyperball"
-> Myers, S.P. (2026). Submitted to JCAP.
+> Myers, S.P. (2026). Submitted to JCAP. **v14.5**
 
 The model derives a comprehensive cosmology from a single postulate: the Schwarzschild radius equals twice the cosmic radius at all scales (rₛ = 2R).
 
@@ -167,7 +167,7 @@ Reviewer Canvas123 (2026) raised three valid concerns addressed in this version:
          Hyperspherical Surface of a Four-Dimensional Hyperball},
   author={Myers, Sean P.},
   year={2026},
-  doi={10.5281/zenodo.19296662},
+  doi={10.5281/zenodo.19322656},
   note={Submitted to JCAP},
   url={https://github.com/Hypersphere-Cosmology/hypersphere-cosmology}
 }
